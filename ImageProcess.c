@@ -1,8 +1,3 @@
-/* Bilal Kahraman
- * 17011062
- * Görüntü Ýþleme Ödev 1
- *
-*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
