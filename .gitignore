@@ -1,0 +1,5 @@
+*.o
+.vscode
+build
+CMakeLists.txt
+PGMConfig.h.in
